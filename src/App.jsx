@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Features from './components/Features'
 import Story from './components/Story'
 import FloatingImage from './components/Story'
+import Contact from './components/Contact'
 
 
 
@@ -16,6 +17,7 @@ const App = () => {
       <Navbar/>
       <Features/>
       <FloatingImage/>
+      <Contact/>
     </main>
   )
 }
